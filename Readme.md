@@ -1,4 +1,5 @@
-#RhythmBytes
+
+## RhythmBytes
 
 This project is a simple rhythm game based on using the arrow keys to hit each beat. Players will have a 
 single life, meaning one miss will result in the game ending. The score system is calculated based on data
